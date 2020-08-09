@@ -1,0 +1,109 @@
+{
+    "players": [
+        {
+            "username": "python_scorpion",
+            "password": "password03",
+            "mail": "1xxxxxx@xxx.com"
+        },
+        {
+            "username": "josue37",
+            "password": "333abcx",
+            "mail": "2xxxxxx@xxx.com"
+        },
+        {
+            "username": "developer_yeah",
+            "password": "frontendRocks",
+            "mail": "3xxxxxx@xxx.com"
+        },
+        {
+            "username": "test_user",
+            "password": "my_pass",
+            "mail": "4xxxxxx@xxx.com"
+        },
+        {
+            "username": "josu-001",
+            "password": "registrationPass",
+            "mail": "5xxxxxx@xxx.com"
+        },
+        {
+            "username": "python_scorpion",
+            "password": "password03",
+            "mail": "1xxxxxx@xxx.com"
+        },
+        {
+            "username": "josue37",
+            "password": "333abcx",
+            "mail": "2xxxxxx@xxx.com"
+        },
+        {
+            "username": "developer_yeah",
+            "password": "frontendRocks",
+            "mail": "3xxxxxx@xxx.com"
+        },
+        {
+            "username": "test_user",
+            "password": "my_pass",
+            "mail": "4xxxxxx@xxx.com"
+        },
+        {
+            "username": "josu-001",
+            "password": "registrationPass",
+            "mail": "5xxxxxx@xxx.com"
+        },
+        {
+            "username": "python_scorpion",
+            "password": "password03",
+            "mail": "1xxxxxx@xxx.com"
+        },
+        {
+            "username": "josue37",
+            "password": "333abcx",
+            "mail": "2xxxxxx@xxx.com"
+        },
+        {
+            "username": "developer_yeah",
+            "password": "frontendRocks",
+            "mail": "3xxxxxx@xxx.com"
+        },
+        {
+            "username": "test_user",
+            "password": "my_pass",
+            "mail": "4xxxxxx@xxx.com"
+        },
+        {
+            "username": "josu-001",
+            "password": "registrationPass",
+            "mail": "5xxxxxx@xxx.com"
+        },
+        {
+            "username": "python_scorpion",
+            "password": "password03",
+            "mail": "1xxxxxx@xxx.com"
+        },
+        {
+            "username": "josue37",
+            "password": "333abcx",
+            "mail": "2xxxxxx@xxx.com"
+        },
+        {
+            "username": "developer_yeah",
+            "password": "frontendRocks",
+            "mail": "3xxxxxx@xxx.com"
+        },
+        {
+            "username": "test_user",
+            "password": "my_pass",
+            "mail": "4xxxxxx@xxx.com"
+        },
+        {
+            "username": "josu-001",
+            "password": "registrationPass",
+            "mail": "5xxxxxx@xxx.com"
+        },
+        {
+            "username": "isalpha",
+            "password": "1234567a",
+            "mail": "pabsa@hotm.com"
+        }
+    ]
+}
