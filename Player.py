@@ -20,6 +20,7 @@ class Controller:
         for player in data['players']:
             usernames.append(player['username'])
             passwords.append(player['password'])
+        
             mails.append(player['mail'])
     
     #Crear el usuario
